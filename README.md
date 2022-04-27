@@ -1,6 +1,7 @@
 # 基于文本字符的交易验证码识别
 * A榜第3、B榜第6
 
+* part2_code是队友@[Ernnnn](https://github.com/Ernnnn/)的
 ## 解决方案
 
 * 使用基于多分类的思路，以effb4为主要模型
